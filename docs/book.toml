@@ -1,0 +1,16 @@
+[book]
+title = "操作系统"
+authors = ["kkghrsbsb"]
+language = "en"
+
+[output.html]
+git-repository-url = ""
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[preprocessor.katex]
+command = "mdbook-katex"

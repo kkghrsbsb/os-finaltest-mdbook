@@ -1,0 +1,12 @@
+# mdBook build outputs
+docs/book/
+
+# Local extraction/cache files
+tmp/
+
+# Reference materials used locally for study notes.
+# Keep these out of the public repository unless you explicitly decide otherwise.
+复习205-2026春季/
+操作系统_考试要求/
+操作系统_课程ppt/
+操作系统作业题参考/
